@@ -4,4 +4,4 @@
 `Shruti A`
 ---
 Robinhood is a trading platform created in 2013 with the intent of making trading available to the masses. 
-While it is a relatively new company, Robinhood has achieved some 
+While it is a relatively new company, Robinhood has achieved success in disrupting the financial sector 
